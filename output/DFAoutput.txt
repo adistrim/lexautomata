@@ -1,0 +1,6 @@
+Enter an input string: 10101
+String accepted.
+Enter an input string: 101010
+String rejected.
+Enter an input string: 010
+String rejected.
