@@ -1,0 +1,45 @@
+#include is a Keyword
+< is an Operator
+iostream is Library
+> is an Operator
+using is a Keyword
+namespace is a Keyword
+std is a Keyword
+; is a Delimiter
+int is a Keyword
+main is a Keyword
+( is a Special Character
+) is a Special Character
+{ is a Special Character
+int is a Keyword
+i is a Variable
+= is an Operator
+0 is an Integer
+; is a Delimiter
+string is a Keyword
+a is a Variable
+= is an Operator
+"hello" is a String
+; is a Delimiter
+while is a Keyword
+( is a Special Character
+1 is an Integer
+) is a Special Character
+{ is a Special Character
+cout is a Keyword
+< is an Operator
+< is an Operator
+i is a Variable
+< is an Operator
+< is an Operator
+endl is a Keyword
+; is a Delimiter
+i is a Variable
++ is an Operator
++ is an Operator
+; is a Delimiter
+} is a Special Character
+return is a Keyword
+0 is an Integer
+; is a Delimiter
+} is a Special Character
