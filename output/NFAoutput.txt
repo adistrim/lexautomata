@@ -1,0 +1,8 @@
+Enter an input string: abbb
+String accepted!
+Enter an input string: bbb
+String accepted!
+Enter an input string: baba
+String rejected.
+Enter an input string: ab
+String rejected.
